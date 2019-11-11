@@ -6,7 +6,7 @@ meta_title: Jenkins Theme - jenkins-material-theme
 meta_description: Beautify your Jenkins with the Material Design theme! So you love Jenkins but hate its ugly user interface and icons… Me too! Introducing a Jenkins Theme based on Material Design. You can turn your favorite frog CI tool into a handsome prince in few steps!
 
 baseurl: ""
-url: "http://afonsof.github.io"
+url: "https://code.praqma.com/jenkins-material-theme/"
 github_url: "https://github.com/afonsof/jenkins-material-theme"
 
 
